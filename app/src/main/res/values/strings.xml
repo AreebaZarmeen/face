@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">face</string>
+    <string name="title_activity_recognition">RecognitionActivity</string>
+    <string name="add_face_gallery">Add Face from Gallery</string>
+    <string name="add_face_camera">Add Face using Camera</string>
+    <string name="start_recognition">Start Recognition</string>
+    <string name="enter_name">Enter name</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+</resources>
